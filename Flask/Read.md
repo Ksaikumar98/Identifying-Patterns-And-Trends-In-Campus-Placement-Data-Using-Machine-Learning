@@ -1,1 +1,1 @@
-Templates related content
+App and Templates related content
